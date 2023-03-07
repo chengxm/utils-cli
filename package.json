@@ -1,0 +1,31 @@
+{
+  "name": "utils-cli",
+  "version": "1.0.0",
+  "description": "工具库包脚手架",
+  "main": "index.js",
+  "bin": {
+    "utils-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengxm/utils-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "chengxm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengxm/utils-cli/issues"
+  },
+  "homepage": "https://github.com/chengxm/utils-cli#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "ora": "^6.1.2"
+  }
+}
