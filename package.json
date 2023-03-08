@@ -23,9 +23,11 @@
   },
   "homepage": "https://github.com/chengxm/utils-cli#readme",
   "dependencies": {
-    "chalk": "^5.2.0",
+    "chalk": "4.x",
+    "child_process": "^1.0.2",
     "commander": "^10.0.0",
     "download-git-repo": "^3.0.2",
+    "inquirer": "8.x",
     "ora": "^6.1.2"
   }
 }
