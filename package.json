@@ -4,7 +4,7 @@
   "description": "工具库包脚手架",
   "main": "index.js",
   "bin": {
-    "utils-cli": "bin/index.js"
+    "cxm-utils": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
